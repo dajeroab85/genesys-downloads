@@ -17,6 +17,7 @@
 # Archivos de sistema
 .DS_Store
 Thumbs.db
+subir.bat
 
 # Archivos de configuración personal
 .env
