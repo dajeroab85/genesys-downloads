@@ -69,11 +69,17 @@ Aplicación en Go para descargar grabaciones de Genesys Cloud en paralelo, organ
 
 .
 ├── config/        # Configuración y carga de variables de entorno
+
 ├── functions/     # Funciones para descarga, procesamiento y escritura
+
 ├── logger/        # Configuración del logger con zap
+
 ├── logs/          # Carpeta donde se escriben los logs
+
 ├── main.go        # Punto de entrada de la aplicación
+
 ├── .env           # Variables de entorno (no incluir en Git)
+
 └── .gitignore     # Archivos ignorados por Git
 
 
